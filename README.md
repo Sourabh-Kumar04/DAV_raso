@@ -1,24 +1,4 @@
 ### `DAV Practical`
-```markdown
-# Python and Data Analysis Questions and Solutions
-
-This repository contains a set of Python programming questions and their solutions. The solutions make use of popular libraries like Pandas, NumPy, Matplotlib, and more. Each question is solved step-by-step and is organized in separate files for better readability.
-
-## Contents
-
-1. [question_1](questions_responses/question1.md)
-2. [question_2](questions_responses/question2.md)
-3. [question_3](questions_responses/question3.md)
-4. [question_4](questions_responses/question4.md)
-5. [question_5](questions_responses/question5.md)
-6. [question_6](questions_responses/question6.md)
-7. [question_7](questions_responses/question7.md)
-
-
-Feel free to explore the solutions and contribute!
-```
-
----
 
 ### `questions_responses/question1.md`
 ```markdown
